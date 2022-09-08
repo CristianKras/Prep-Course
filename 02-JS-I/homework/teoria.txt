@@ -1,0 +1,12 @@
+variables: espacios en la memoria que le pedimos al sistema que nos reserve para almacenar algun dato mas adelante
+
+Strings: es un tipo de dato "caracter"; nombres, oraciones, todo lo que sea con letras, se escriben dentro de comillas "".
+
+Funciones: son bloques de código en los cuales podemos hacerlos hacer cualquier tipo de cosa que utilicemos mas de una vez, por ejemplo sumar dos numeros (a+b). Para hacerlo debemos
+pasarle argumentos que no son mas que las variables con las que querramos trabajar. Dentro de una funcion podemos declarar la palabra resrvada return, que hará que nuestra función
+se detenga y devuelva a nuestro flujo principal del programa lo que le hayamos pedido a la función.
+
+Declaracion if: es un llamado control de flujo, se evalúa una condicion y dependiendo de ésta, el código tomará un camino u otro.
+
+Valores booleanos: son estados de algo en particular, por ejemplo, si tenemos esta expresión: 5 > 3, sabemos que 5 es mayor que 3, refiriéndonos a los valores booleanos, el estado
+de esa expresion va a ser "true", que es uno de los valores booleanos que existen. Si la expresion fuese, 5 < 3, sabemos que esto no es asi, entonces el estado sera "false"
