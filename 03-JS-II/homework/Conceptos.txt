@@ -1,0 +1,11 @@
+for: son sentencias bucle, es decir, bloques de código que se van a ejecutar la cantidad de veces que nosotros como programadores les indiquemos, para ello creamos e inicializamos
+una variable que sera nuestra "contadora" de la cantidad de veces que se ejecutará nuestro bloque, luego le indicamos la condicion que debe cumplirse para que se ejecute el código,
+cuando esta condicion deja de cumplirse, el bucle dejara de ejecutarse. Y por último, incrementamos el valor de nuestra variable, si esto no se hace, tendremos algo que se conoce
+como bucle infinito debido a que nuestra variable no cambia su valor.
+
+&&, ||, !: llamados operadores lógicos, nos dan la oportunidad de establecer mas de una condición, es decir, si queremos que para que se ejecute un bucle for, por ejemplo, 
+podemos establecer dos o mas condiciones para que sean evaluadas y recien ahí, ejecutar el bucle. Existen tres de estos operadores:
+&&: este operador que significa "y" evaluará las condiciones y ejecutará el bucle únicamente si TODAS las condiciones se cumplen, es decir, que sean true.
+||: significa "o", similar al anterior solo que este ejecuta el código si solo una condición se cumple.
+!: este operador hace que cualquier expresión se convierta a lo contrario de lo que es, por ejemplo, si escribimos "!true" esto dara false, el operador ! cambia el valor de true
+a false. 
