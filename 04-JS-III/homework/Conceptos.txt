@@ -1,0 +1,2 @@
+Arrays: se puede pensar como una caja donde puedo guardar lo que yo quiera. En programacion se puede usar para guardar elementos, de cualquier tipo (strings, numeros, valores booleanos)
+También podemos guardar funciones. Esto nos da la facilidad de guardar muchas cosas en una misma variable digamos, en vez de hacerlo en muchas variables distintas.
