@@ -1,0 +1,12 @@
+Objetos: son similares a los arreglos, a diferencia que un objeto referencia su información a través de un par de clave y valor, esto no es mas que una especie de variable y su valor.
+Para acceder a estos ya no necesitamos su índice como lo hacíamos con los arreglos, ahora podemos llamarlos por su nombre.
+
+Propiedades: como en los arrays, son los elementos que tenemos dentro de nuestros objetos, como atributos, con sus determinados valores.
+
+Métodos: son funciones pero cuando son declaradas dentro de un objeto, pasan a llamarse métodos.
+
+Bucle for...in: como en los arreglos, a veces queremos recorrer un objetos, para esto, usamos el bucle for...in, que funciona como el bucle for que ya conocemos, para este nuevo bucle
+necesitamos pasarle una variable que almacena nuestras claves o propiedades, la palabra reservada in y el nombre del objeto que queremos recorrer.
+
+Notación de puntos vs corchetes: la notación de puntos es más fácil de escribir, pero limitado en algunos aspectos, ya que solo se puede referenciar a las propiedades de el objeto
+en cuestión, en cambio, la notación de corchetes permite hacer mas cosas, como recorrer el objeto, usar variables.
