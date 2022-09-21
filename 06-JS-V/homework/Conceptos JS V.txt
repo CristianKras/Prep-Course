@@ -1,0 +1,6 @@
+prototype: podemos crear métodos que pueden ser reutilizados cuando creemos objetos que puedan compartirlo, para no tener que crear el mismo método otra vez, esto nos
+ahorrará espacio en memoria.
+
+Constructors(de clase): al igual que prototype, cuando creamos objetos que comparten propiedades, podemos usar los constructores que son como plantillas, entonces cuando
+se desea crear un nuevo objeto, no es necesario volver a definir propiedades de cero, utilizamos esa plantilla que creamos y le asignamos los valores correspondientes
+al nuevo objeto.
