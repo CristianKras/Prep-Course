@@ -1,0 +1,1 @@
+CallBacks: es un concepto que surge de poder pasar como argumento de una función, otra función. Estas pueden ser invocadas cunado se lo desee, y pasarle argumentos dentro de la función.
